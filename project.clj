@@ -1,4 +1,6 @@
-(defproject lein-cuke "0.0.2-SNAPSHOT"
+; Changed by springify to allow pushing to clojars
+
+(defproject org.clojars.springify/lein-cuke "0.0.2"
   :description "Cucumber runner for leiningen"
   :repositories [["cukes" "http://cukes.info/maven"]
                  ["clojars" "http://clojars.org/repo"]]

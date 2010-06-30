@@ -23,3 +23,8 @@ Do this:
     $ lein cuke-gems # install needed gems
     $ # create cucumber hierarchy - todo: add a target for this
     $ lein cuke # start red-green-refactoring!
+
+
+## Notice
+
+Changed project.clj to allow pushing to clojars under my group.
